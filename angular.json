@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-open-graph"
+    }
+  },
+  "defaultProject": "angular-open-graph",
+  "cli": {
+    "analytics": "bf6a2520-7c11-4a5d-82e6-3524ea31a3ec"
+  }
 }
